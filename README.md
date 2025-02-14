@@ -1,9 +1,8 @@
-# Neural-Assignment-1
-# Neural Networks and Deep Learning - Assignment
+# Neural Networks and Deep Learning - Assignment 1
 
 ## Student Information
-Name:
-Student ID:
+Name:Jaswanth Reddy Donapati
+Student ID:700757646
 
 ---
 
