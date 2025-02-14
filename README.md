@@ -70,44 +70,10 @@ Broadcasting allows smaller tensors to be automatically expanded to match the di
 3. *Effect of increasing epochs:*
    - Training accuracy improves, but validation accuracy may plateau or drop due to overfitting.
 
----
-
-## Running the Code
-To run this project, follow these steps:
-1. Clone the repository:
-   bash
-   git clone [Your Repo URL]
-   cd [Your Repo Folder]
    
-2. Install dependencies:
-   bash
-   pip install tensorflow numpy matplotlib
-   
-3. Run the script:
-   bash
-   python neural_net_assignment.py
-   
-4. View TensorBoard logs:
-   bash
-   tensorboard --logdir=logs/fit
-   
-
----
-
-## Video Submission
-A 2-3 minute video has been created to:
-- Demonstrate tensor manipulations.
-- Explain loss function behavior.
-- Compare optimizer performance.
-- Show TensorBoard logging and analysis.
 
 ---
 
 ## Conclusion
 This assignment provided hands-on experience with TensorFlow operations, loss function evaluation, model training, and TensorBoard visualization. These foundational concepts are essential for developing deep learning models effectively.
 
----
-
-## References
-- TensorFlow Documentation: https://www.tensorflow.org/
-- MNIST Dataset: http://yann.lecun.com/exdb/mnist/
